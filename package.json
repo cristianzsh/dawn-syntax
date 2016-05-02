@@ -1,0 +1,15 @@
+{
+  "name": "dawn-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "Dawn syntax theme for Atom",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/cristian-henrique/dawn-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
